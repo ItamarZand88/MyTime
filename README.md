@@ -1,8 +1,18 @@
-# React + Vite
+# MyTime: Student Time Management Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ <!-- Replace 'path_to_logo.png' with the path to your logo if you have one -->
 
-Currently, two official plugins are available:
+Description
+MyTime is a comprehensive time management tool designed specifically for students. With a user-friendly interface and a range of features, it aims to help students organize their academic life more efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Timetable: Keep track of your classes, labs, and tutorials with an intuitive timetable.
+
+Useful Links: A curated list of links to essential resources, ensuring you have everything you need at your fingertips.
+
+Task List: Organize your assignments, readings, and other tasks with a to-do list. Never miss a deadline again!
+
+Pomodoro Clock: Use the Pomodoro technique to break your study sessions into focused intervals with short breaks in between. Boost your productivity and reduce burnout.
+
+Upcoming: A calendar feature will be added soon, allowing you to visualize your schedule and  
+important dates.
