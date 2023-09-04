@@ -1,7 +1,7 @@
 # MyTime: Student Time Management Tool
 
-![Login](https://github.com/ItamarZand88/MyTime/main/MyTime/login.png)
-![Dashboard](https://github.com/ItamarZand88/MyTime//main/MyTime/dashboard.png)
+![Login](https://github.com/ItamarZand88/MyTime/main/login.png)
+![Dashboard](https://github.com/ItamarZand88/MyTime//main/dashboard.png)
 
 ## Description
 
